@@ -20,7 +20,7 @@ body {
 }
 
 .logo {
-    width: 100px;
+    width: 120px;
 }
 
 .navegacion {
@@ -82,4 +82,10 @@ a:hover {
     align-items: center;
     justify-content: center;
     border-radius: 10px;
+}
+
+p{
+    text-align: center;
+    padding: 10px 10px;
+    
 }
